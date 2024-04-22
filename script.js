@@ -1,2 +1,1 @@
-console.log(2)
-console.log("Hey")
+console.log("GameMarket")
