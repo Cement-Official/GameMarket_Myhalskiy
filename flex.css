@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    display: flex;
+    flex-direction: column-reverse;
+    font-size: larger;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    font-size: 80px;
+    height: 100vh;
+    gap: 10px;
+}
+div {
+    border: 3px solid rgb(247, 231, 11);
+}
