@@ -30,9 +30,9 @@ header {
 
 }
 
-div {
-  /* border: 1px solid darkgray; */
-}
+/* div {
+  border: 1px solid darkgray;
+} */
 .items {
   display: flex;
   flex-wrap: wrap;
