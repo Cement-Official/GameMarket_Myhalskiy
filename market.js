@@ -110,7 +110,7 @@ let itemsArray = [
     //     url: "https://lyceum.ztu.edu.ua/team/zynyuk-nataliya-mykolayivna/",
     // },
     {
-        title: "Мотокоса",
+        title: "Мотокоса 43",
         img: "https://budpostach.ua/image/cache/catalog/easyphoto/3585/motokosa-benzinova-m-430-bukovina-1-1200x1200.jpg",
         mono: "6",
         privatbank: "8",
@@ -120,7 +120,7 @@ let itemsArray = [
 
     },
     {
-        title: "Електричний тример",
+        title: "Електричний тример 110",
         img: "https://budpostach.ua/image/cache/catalog/easyphoto/8403/elektrichniy-trimer-forte-emk-361-1-1200x1200.jpg",
         mono: "6",
         privatbank: "8",
@@ -129,7 +129,7 @@ let itemsArray = [
         coupon_price: "3396",
     },
     {
-        title: "Електрична косарка",
+        title: "Електрична газонокосарка 32",
         img: "https://storgom.ua/cache/i/products/43/102013/52082884.873x735.jpg",
         mono: "6",
         privatbank: "8",
@@ -138,7 +138,7 @@ let itemsArray = [
         coupon_price: "3195",
     },
     {
-        title: "Оприскувач",
+        title: "Акумуляторний обприскувач 12 N",
         img: "https://images.prom.ua/1649168929_w640_h640_opryskivatel-sadovyj-rantsevyj.jpg",
         mono: "6",
         privatbank: "8",
