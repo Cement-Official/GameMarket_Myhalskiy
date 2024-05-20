@@ -40,7 +40,7 @@ header {
 }
 .item {
   min-width: 200px;
-  max-width: 200px;
+  max-width: 205px;
   min-height: 400px;
   margin-bottom: 10px;
   padding: 10px;
@@ -56,8 +56,9 @@ header {
   font-weight: bold;
 }
 .item-image {
-  height: 250px;
-  background-image: url(images/motocosa.png);
+  height: 210px;
+  width: 200px;
+  /* background-image: url(images/motocosa.png); */
   background-size: 70%;
   background-repeat: no-repeat;
   background-position: center;
